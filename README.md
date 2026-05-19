@@ -11,6 +11,7 @@ Each sub-folder is a focused sub-hub. The table below links to the folder, summa
 ## Current Contents
 
 - [stage-privilege-verification/related-work-summary.md](./stage-privilege-verification/related-work-summary.md): a structured literature table for Verified Staged Authorization, including paper status, abstract-level takeaways, and why each work matters for the project.
+- [related-work-summary-template.md](./related-work-summary-template.md): a reusable Markdown template for creating new sub-hub literature tables in the same format.
 
 ## Scope
 
@@ -21,6 +22,8 @@ The repository is intended for organized, shareable notes rather than a complete
 - links to primary paper pages or project pages,
 - short notes about why each work matters,
 - a shortlist of closest competitors or baselines.
+
+For a new sub-hub, copy [related-work-summary-template.md](./related-work-summary-template.md) into the new folder as `related-work-summary.md`, then fill in the paper table and closest-competitor table.
 
 ## Update Convention
 
