@@ -8,10 +8,10 @@ Status legend:
 - **Preprint**: arXiv or similar artifact; useful, but venue status should be rechecked before camera-ready.
 - **Technical report / guidance**: non-venue source used for background or framing.
 
-| # | Category | Work | Status | What the abstract is saying | Why it matters for <short project name> |
-|---:|---|---|---|---|---|
-| 1 | <paper category> | [<Author et al., "Paper Title">](<paper URL>) | <venue/year or source type> | <One or two sentences summarizing the abstract-level contribution in your own words.> | <Why this work matters for your project, baseline, threat model, motivation, or positioning.> |
-| 2 | <paper category> | [<Author et al., "Paper Title">](<paper URL>) | <venue/year or source type> | <One or two sentences summarizing the abstract-level contribution in your own words.> | <Why this work matters for your project, baseline, threat model, motivation, or positioning.> |
+| # | Category | Work | Status | What the abstract is saying | Why it matters for <short project name> | comment |
+|---:|---|---|---|---|---|---|
+| 1 | <paper category> | [<Author et al., "Paper Title">](<paper URL>) | <venue/year or source type> | <One or two sentences summarizing the abstract-level contribution in your own words.> | <Why this work matters for your project, baseline, threat model, motivation, or positioning.> |comment|
+| 2 | <paper category> | [<Author et al., "Paper Title">](<paper URL>) | <venue/year or source type> | <One or two sentences summarizing the abstract-level contribution in your own words.> | <Why this work matters for your project, baseline, threat model, motivation, or positioning.> |comment|
 
 ## Shortlist of Closest Competitors
 
